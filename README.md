@@ -10,3 +10,9 @@ This simple web application allows a client to select a country and retrieve the
 These statistics are retrieved from [https://www.trackcorona.live/api](https://www.trackcorona.live/api). 
 
 Deployed Heroku app [https://guarded-coast-16499.herokuapp.com/](https://guarded-coast-16499.herokuapp.com/).
+
+
+
+<img src="https://github.com/tottiliyt/Covid-Stats/blob/master/screenshot.PNG">
+
+(Screenshot from deployed website)
