@@ -1,0 +1,24 @@
+{
+  "name": "quiz-alan-hw",
+  "version": "1.0.0",
+  "description": "This simple web application allows a client to select a country and retrieve the following COVID-related statistics:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs280fall20-homework/quiz-alan-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs280fall20-homework/quiz-alan-hw/issues"
+  },
+  "homepage": "https://github.com/cs280fall20-homework/quiz-alan-hw#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  }
+}
